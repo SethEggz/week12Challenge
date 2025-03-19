@@ -1,7 +1,15 @@
-import Project from './Project'
+import ContactMe from './ContactMe'
+import Portfolio from './Portfolio'
+import Resume from './Resume'
 <NAV>
     <button> 
-        <Project/>
+        <ContactMe/>
+    </button>
+    <button> 
+        <Portfolio/>
+    </button>
+    <button> 
+        <Resume/>
     </button>
 
 </NAV>

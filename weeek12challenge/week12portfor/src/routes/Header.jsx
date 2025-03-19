@@ -1,7 +1,7 @@
 import Navigation from './Navigation'
 <>
 <header>
-    <H2>Portfoli</H2>
+    <H2>Seth Eggen</H2>
     <Navigation/>
 </header>
 </>
