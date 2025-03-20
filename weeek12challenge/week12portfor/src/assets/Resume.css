@@ -1,0 +1,39 @@
+.resume-download {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+  }
+  
+  .resume-download:hover {
+    background-color: #2980b9;
+  }
+  
+  .proficiencies {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+  }
+  
+  .skill-section h4 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .skill-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .skill-section li {
+    margin-bottom: 5px;
+    padding: 5px 0;
+    border-bottom: 1px dashed #ddd;
+  }
